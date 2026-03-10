@@ -62,7 +62,7 @@ Columns include:
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Preview](https://res.cloudinary.com/dtyvdirkk/image/upload/v1773120702/Screenshot_2026-03-10_003940_kvgnae.png)
+![Dashboard Preview](https://res.cloudinary.com/dtyvdirkk/image/upload/v1773121408/Screenshot_2026-03-10_111258_sl4ck3.png)
 
 ---
 
