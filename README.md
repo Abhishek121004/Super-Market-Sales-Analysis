@@ -62,7 +62,7 @@ Columns include:
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](https://app.powerbi.com/groups/me/reports/b617b2ce-bf5d-4455-9714-729f228caa0b/d29974d0aa0767c36da7?experience=power-bi)
 
 ---
 
