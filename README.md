@@ -1,52 +1,111 @@
-🛍️ Real Mart Sales Intelligence Dashboard
-<div align="center">
+# 🛒 Supermarket Sales Dashboard (Power BI)
 
+## 📊 Project Overview
 
+This project presents an **interactive Power BI dashboard** built using the Supermarket Sales dataset.
+The dashboard analyzes sales performance across different cities, product lines, payment methods, and customer demographics.
 
+The goal of this project is to provide **business insights that help improve decision-making in retail operations.**
 
+---
 
+## 🚀 Key Features
 
+* Interactive **City Filter and Product Line Filter**
+* Sales comparison across **Mumbai, Hyderabad, and Delhi**
+* Visualization of **Payment Methods (Cash, E-wallet, Credit Card)**
+* Customer **Gender Distribution Analysis**
+* Product line **Sales Performance**
+* Product line **Average Rating Analysis**
 
+---
 
-📊 Turning Retail Data into Actionable Business Intelligence
+## 📈 Dashboard Insights
 
-</div>
-🚀 Executive Summary
+Some important insights derived from the dashboard:
 
-The Real Mart Sales Intelligence Dashboard is an interactive Power BI solution designed to uncover revenue patterns, customer behavior, and product performance across multiple cities and branches.
+* **Mumbai generates the highest total income**
+* **Cash is the most used payment method**
+* **Food and Beverages is the highest selling product line**
+* **Female customers contribute more to total revenue**
+* **Fashion accessories have the highest average rating**
 
-This project demonstrates end-to-end data analytics capabilities — from data cleaning and modeling to advanced DAX calculations and executive-ready visualization.
+---
 
-✅ Built with a business-first mindset
-✅ Optimized for stakeholder decision-making
-✅ Designed using data storytelling principles
+## 🧰 Tools & Technologies
 
-🧠 Business Problem
+* Power BI
+* Data Cleaning
+* Data Visualization
+* Business Intelligence
+* Retail Sales Analysis
 
-Retail stakeholders often struggle to:
+---
 
-Identify top-performing cities and product lines
+## 📂 Dataset
 
-Understand customer purchasing behavior
+Dataset used: **Supermarket Sales Dataset**
 
-Compare payment preferences across regions
+Columns include:
 
-Monitor overall sales health in real time
+* Branch
+* City
+* Customer Type
+* Gender
+* Product Line
+* Payment Method
+* Quantity
+* Rating
+* Total Income
 
-This dashboard solves these challenges by providing a single source of truth for retail performance monitoring.
+---
 
-🎯 Project Objectives
+## 🖼 Dashboard Preview
 
-📈 Track overall revenue and sales volume
+![Dashboard Preview](images/dashboard_preview.png)
 
-🏙️ Compare performance across cities and branches
+---
 
-🧩 Analyze product line contribution
+## 📊 KPI Metrics
 
-💳 Evaluate payment method distribution
+| Metric                 | Value  |
+| ---------------------- | ------ |
+| Total Income           | 31.43K |
+| Total Quantity Sold    | 11K    |
+| Average Product Rating | 6.99   |
 
-👥 Understand gender-based purchasing trends
+---
 
-⭐ Monitor customer satisfaction via ratings
+## 🎯 Business Questions Answered
 
-🔍 Enable dynamic, self-service exploration
+1. Which city generates the highest sales revenue?
+2. Which product line performs best?
+3. Which payment method is most commonly used?
+4. How does customer gender affect sales?
+5. Which products receive the highest ratings?
+
+---
+
+## 📌 How to Use
+
+1. Download the `.pbix` file
+2. Open using **Microsoft Power BI Desktop**
+3. Interact with filters and charts to explore insights
+
+---
+
+## ⭐ Future Improvements
+
+* Add sales trend forecasting using machine learning
+* Deploy dashboard using Power BI Service
+* Add regional sales comparison
+* Integrate live retail data
+
+---
+
+## 👨‍💻 Author
+
+**Abhishek Kumar**
+
+Aspiring Software Engineer | Data Analytics Enthusiast
+
